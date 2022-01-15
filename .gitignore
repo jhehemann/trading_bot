@@ -1,0 +1,17 @@
+.DS_Store
+
+
+machine_learning/*.csv
+machine_learning/*.png
+machine_learning/.DS_Store
+
+pretest/tradeshistory.json
+pretest/trade_initial.json
+pretest/balance_initial.json
+pretest/balance.json
+
+
+yt_bot/balance.json
+yt_bot/balance_initial.json
+yt_bot/trade_initial.json
+yt_bot/tradeshistory.json
